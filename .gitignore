@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 node_modules/
 .expo/
 dist/
@@ -15,3 +16,6 @@ web-build/
 
 # Temporary files created by Metro to check the health of the file watcher
 .metro-health-check*
+=======
+node_modules
+>>>>>>> ca7bdccebd29b27bd0c9ee87bf79c19401edf454
